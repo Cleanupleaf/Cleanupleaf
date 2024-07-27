@@ -49,5 +49,7 @@
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr></table>  
