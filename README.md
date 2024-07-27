@@ -1,7 +1,7 @@
 # Hello!👋  
   
 
-### <div align="center">I'm Ashley, an undergraduate student at Franklin College.</div>  
+### <div align="center">I'm Ashley, an undergraduate student at Franklin College.</div> </br>  
   
 
 - 🌱 I’m currently majoring in Software Engineering, Computer Science and Data Science.  
